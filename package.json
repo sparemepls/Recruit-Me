@@ -18,5 +18,8 @@
     "url": "https://github.com/vivek0raon/Recruit-Me/issues"
   },
   "homepage": "https://github.com/vivek0raon/Recruit-Me#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "react-router": "^7.9.4"
+  }
 }
