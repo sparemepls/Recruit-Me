@@ -1,7 +1,13 @@
 import React from "react";
+import Navbar from "../components/Navbar.jsx";
 
 function DashboardPage() {
-  return <div>This is Dashboard</div>;
+  return (
+    <div>
+      <Navbar />
+      This is Dashboard
+    </div>
+  );
 }
 
 export default DashboardPage;
